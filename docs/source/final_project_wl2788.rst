@@ -12,7 +12,6 @@ final\_project\_wl2788.final\_project\_wl2788 module
    :undoc-members:
    :show-inheritance:
 
-
 Module contents
 ---------------
 
