@@ -1,7 +1,7 @@
 [tool.poetry]
-name = "final_project"
+name = "final_project_wl2788"
 version = "0.1.0"
-description = "Python package for final project with game giveaways."
+description = "Python package for final project."
 authors = ["Wenyu <71299532+Irene-2020@users.noreply.github.com>"]
 license = "MIT"
 
@@ -9,6 +9,8 @@ license = "MIT"
 python = "^3.8"
 
 [tool.poetry.dev-dependencies]
+Sphinx = "^3.3.1"
+sphinxcontrib-napoleon = "^0.7"
 
 [build-system]
 requires = ["poetry-core>=1.0.0a5"]

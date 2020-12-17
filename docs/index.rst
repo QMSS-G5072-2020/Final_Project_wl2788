@@ -1,4 +1,4 @@
-Welcome to Final_project's documentation!
+Welcome to Final_Project_wl2788's documentation!
 ===========================================================
 
 .. image:: https://img.shields.io/badge/tutorial-py--pkgs-blue
@@ -10,7 +10,7 @@ Welcome to Final_project's documentation!
 .. image:: https://img.shields.io/badge/badges-shields.io-brightgreen
         :target: https://shields.io/
 
-Python package for final project with game giveaways. 
+Python package for final project
 
 To get started, check out the sections below:
 
