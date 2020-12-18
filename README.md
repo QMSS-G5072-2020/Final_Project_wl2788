@@ -2,7 +2,7 @@
 
 ![](https://github.com/Irene-2020/final_project_wl2788/workflows/build/badge.svg) [![codecov](https://codecov.io/gh/Irene-2020/final_project_wl2788/branch/main/graph/badge.svg)](https://codecov.io/gh/Irene-2020/final_project_wl2788) ![Release](https://github.com/Irene-2020/final_project_wl2788/workflows/Release/badge.svg) [![Documentation Status](https://readthedocs.org/projects/final_project_wl2788/badge/?version=latest)](https://final_project_wl2788.readthedocs.io/en/latest/?badge=latest)
 
-Python package for final project
+Python package for final project-Game Giveaways API
 
 ## Installation
 
